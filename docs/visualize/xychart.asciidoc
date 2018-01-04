@@ -66,7 +66,7 @@ Style all the Y-axes of the chart.
 *Position*:: position of the X-Axis (*left* or *right* for horizontal charts, and *top* or *bottom* for vertical charts).
 *Advanced Options*::
 *Labels - Show Labels*:::: Allows you to hide axis labels
-*Labels - Filter Labels*:::: If filter labels is enabled some labels will be hidden in case there is not enough spave to display them
+*Labels - Filter Labels*:::: If filter labels is enabled some labels will be hidden in case there is not enough space to display them
 *Labels - Rotate*:::: You can enter the number in degrees for how much you want to rotate labels
 *Labels - Truncate*:::: You can enter the size in pixels to which the label is truncated
 
